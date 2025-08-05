@@ -63,7 +63,6 @@ EmployeeInfoPortal/
 
 ```bash
 git clone https://github.com/vinaykumarr008/Employee-Info-Portal.git
-Open in Eclipse
 ```
 
 2. **Open Eclipse**
