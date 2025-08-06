@@ -28,22 +28,6 @@
 
 ---
 
-## 📁 Project Structure
-
-EmployeeInfoPortal/
-├── WebContent/
-│ ├── index.html
-│ └── WEB-INF/
-│ └── web.xml
-├── src/
-│ └── GetEmployees.java
-├── lib/
-│ └── mysql-connector-java-8.x.x.jar
-├── README.md
-└── .gitignore
-
----
-
 ## 🛠️ Setup Instructions
 
 ### ✅ Prerequisites
@@ -90,3 +74,8 @@ Start Tomcat server in Eclipse
 
 Open in browser:
 http://localhost:8080/EmployeeInfoPortal/GetEmployees
+
+![HonePage Screenshot](HomePage.png)  
+![ContentPage Screenshot](ContentPage.png)  
+
+
